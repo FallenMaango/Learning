@@ -2,7 +2,7 @@
 
 This app is a simple TicTacToe game, made with React, mainly using JavaScript
 
-![](/images/Winner.png)
+![](images/Winner.png)
 
 # Getting Started
 
@@ -19,10 +19,10 @@ If this is done correctly, the application will now be running locally and a bro
 
 Now you should see an empty TicTacToe Grid With the Current player displayed above.
 
-![](/images/GameStart.png)
+![](images/GameStart.png)
 
 Here, you can simply click any of the 9 fields to play your turn. 
 
-![](/images/AfterTurn.png)
+![](images/AfterTurn.png)
 
 >At the current state of the app, it is required to simply reload the page to restart a game.
